@@ -1,90 +1,90 @@
 [
   {
     "id": 1,
-    "name": "AI Writing Pro",
+    "name": "Smart Content Generator",
     "image": "1.png",
-    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
-    "price": 29,
+    "description": "Create engaging articles, ads, and social media posts instantly using AI.",
+    "price": 35,
     "period": "monthly",
     "tag": "Best Seller",
     "tagType": "best",
-    "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"]
+    "features": ["Unlimited content creation", "AI tone adjustment", "SEO optimization"]
   },
   {
     "id": 2,
-    "name": "Design Templates Pack",
+    "name": "Creative Design Bundle",
     "image": "2.png",
-    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
-    "price": 49,
+    "description": "A complete collection of modern templates for branding and marketing.",
+    "price": 55,
     "period": "one-time",
     "tag": "Popular",
     "tagType": "popular",
-    "features": ["2000+ templates", "Monthly updates", "Commercial license"]
+    "features": ["2500+ templates", "Editable files", "Lifetime access"]
   },
   {
     "id": 3,
-    "name": "Premium Stock Assets",
+    "name": "Ultimate Media Library",
     "image": "3.png",
-    "description": "Access millions of royalty-free photos, videos, and graphics.",
-    "price": 19,
+    "description": "Explore a vast library of high-quality images, videos, and design assets.",
+    "price": 22,
     "period": "monthly",
     "tag": "New",
     "tagType": "new",
-    "features": ["10M+ assets", "Commercial use", "No attribution"]
+    "features": ["HD & 4K assets", "Unlimited downloads", "No watermark"]
   },
   {
     "id": 4,
-    "name": "Automation Toolkit",
+    "name": "Workflow Automation Pro",
     "image": "4.png",
-    "description": "Automate repetitive tasks and streamline your workflow.",
-    "price": 79,
+    "description": "Boost productivity by automating daily repetitive tasks effortlessly.",
+    "price": 85,
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
-    "features": ["50+ automations", "API access", "Custom workflows"]
+    "features": ["Custom automation rules", "Integration support", "Real-time monitoring"]
   },
   {
     "id": 5,
-    "name": "Resume Builder Pro",
+    "name": "Professional CV Maker",
     "image": "5.png",
-    "description": "Create professional resumes and cover letters.",
-    "price": 15,
+    "description": "Build impressive resumes and cover letters with ease.",
+    "price": 18,
     "period": "one-time",
     "tag": "New",
     "tagType": "new",
-    "features": ["100+ templates", "ATS optimization", "Export to PDF"]
+    "features": ["Modern resume layouts", "One-click export", "Grammar suggestions"]
   },
   {
     "id": 6,
-    "name": "Social Media Content Kit",
+    "name": "Social Growth Toolkit",
     "image": "6.png",
-    "description": "Complete toolkit for creating engaging social media content.",
-    "price": 39,
+    "description": "Everything you need to grow and manage your social media presence.",
+    "price": 45,
     "period": "monthly",
     "tag": "Best Seller",
     "tagType": "best",
-    "features": ["5000+ assets", "Scheduler included", "Analytics dashboard"]
+    "features": ["Content planner", "Auto posting", "Engagement analytics"]
   },
   {
     "id": 7,
-    "name": "Freelancer Toolkit",
+    "name": "Freelance Business Suite",
     "image": "7.png",
-    "description": "Manage clients, invoices, and projects in one place.",
-    "price": 25,
+    "description": "All-in-one solution for managing freelance projects and clients.",
+    "price": 30,
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
-    "features": ["Invoice generator", "Client management", "Time tracking"]
+    "features": ["Project tracking", "Invoice automation", "Client dashboard"]
   },
   {
     "id": 8,
-    "name": "Interview Prep Master",
+    "name": "Career Interview Coach",
     "image": "8.png",
-    "description": "Prepare for interviews with mock questions and tips.",
-    "price": 12,
+    "description": "Practice interviews and improve your confidence with expert guidance.",
+    "price": 14,
     "period": "monthly",
     "tag": "Best Seller",
     "tagType": "best",
-    "features": ["Mock interviews", "Common Q&A", "Feedback system"]
+    "features": ["Real interview simulations", "Answer tips", "Performance insights"]
   }
 ]
