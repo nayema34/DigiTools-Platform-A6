@@ -1,16 +1,23 @@
-# React + Vite
+DigiTools Platform :
+Premium digital tools for creators, professionals, and businesses. Work smarter with our suite of powerful tools.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ About the Project :
+DigiTools is a curated collection of premium digital products designed to boost productivity and creativity. Whether you are a solo creator or a large enterprise, our platform allows you to browse, select, and start using high-end tools in minutes, not hours.
 
-Currently, two official plugins are available:
+=> Technologies Used
+Based on our current stack:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Frontend: React.js (Vite)
 
-## React Compiler
+Styling: Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Icons: React Icons (Fa6, Io)
 
-## Expanding the ESLint configuration
+Configuration: ESLint & PostCSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=> Key Features
+Seamless Cart Experience: Easily browse digital tools like "AI Writing Pro" or "Design Template Packs" and manage your selection with a real-time cart and total calculation.
+
+Flexible Pricing Tiers: Choose between Starter, Pro, and Enterprise plans tailored to your needs, featuring everything from basic templates to custom branding and SLA guarantees.
+
+Instant Access Workflow: A simplified three-step process—Create Account, Choose Plan, and Get Started—to ensure you can download and use your tools immediately.
